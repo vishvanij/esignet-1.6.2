@@ -296,33 +296,34 @@
     "popup_body": "{{clientName}} requires access in order to proceed further, do you still wish to discontinue?",
     "consent_details_rejected": "We’re sorry! Your login was unsuccessful as consent was not shared."
   },
-  "loginOptions": {
-    "buttons": {
-      "mobile": "Mobile Number",
-      "nrc": "NRC ID",
-      "vid": "VID",
-      "email": "Email",
-      "nipNumber": "IPN",
-      "uin": "UIN"
-    },
-    "input": {
-      "label": {
-        "mobile": "Mobile Number",
-        "nrc": "NRC ID",
-        "vid": "VID",
-        "email": "Email",
-        "nipNumber": "IPN",
-        "uin": "UIN"
-      },
-      "placeholder": {
-        "mobile": "Enter Mobile Number",
-        "nrc": "Enter NRC ID",
-        "vid": "Enter VID",
-        "email": "Enter Email ID",
-        "nipNumber": "Enter IPN",
-        "uin": "Enter UIN"
-      }
-    },
+ "loginOptions": {
+"buttons": {
+"mobile": "Mobile Number",
+"nrc": "NRC ID",
+"vid": "VID",
+"email": "Email",
+"nipNumber": "IPN",
+"uin": "UIN"
+},
+"input": {
+"label": {
+"mobile": "Mobile Number",
+"nrc": "NRC ID",
+"vid": "VID",
+"email": "Email",
+"nipNumber": "IPN",
+"uin": "UIN"
+},
+"placeholder": {
+"mobile": "Enter Mobile Number",
+"nrc": "Enter NRC ID",
+"vid": "Enter VID",
+"email": "Enter Email ID",
+"nipNumber": "Enter IPN",
+"uin": "Enter UIN"
+}
+}
+},
   "errors": {
     "invalid_policyNumber": "Please Enter Valid Policy Number.",
     "invalid_fullName": "Please Enter Valid Name.",
